@@ -1,5 +1,5 @@
 linux_thread_test
 =================
-- コンパイル＆実行方法
+- Comple and Run  
  `gcc linux_thread_test.c -lpthread && ./a.out`
 
